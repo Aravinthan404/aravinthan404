@@ -16,7 +16,6 @@ In my spare time, I debug my soul, scroll through Dev memes, and build cool stuf
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
 
 ---
 
