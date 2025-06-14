@@ -1,16 +1,32 @@
-## Hi there 👋
+# ABOUT ME
 
-<!--
-**Aravinthan404/aravinthan404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`Aspiring Full Stack Developer` • `Cloud Enthusiast` • `Bug Whisperer` • `Portfolio Pizza Chef 🍕`
 
-Here are some ideas to get you started:
+Hi there 👋 I'm Aravinthan, a curious coder who occasionally wins battles with semicolons and runtime errors. I’m passionate about building cloud-native apps, experimenting with UI/UX, and pretending to know what I’m doing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my spare time, I debug my soul, scroll through Dev memes, and build cool stuff I’ll probably never deploy.
+
+---
+
+## 🛠 Languages and Tools
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
+
+---
+
+## 🚀 Latest Projects
+
+- 🎨 [Portfolio Website](https://arvfolio.framer.website/) – My online CV but prettier.
+- 🛰️ [Cloud App] will be deployed sooon! – It works on my cloud.
+
+---
+
+> _“Code. Sleep. Debug. Repeat.”_  
+> – Me, every night
+
