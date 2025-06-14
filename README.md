@@ -1,6 +1,6 @@
 # ABOUT ME
 
-`Aspiring Full Stack Developer` • `Cloud Enthusiast` • `Bug Whisperer` • `Portfolio Pizza Chef 🍕`
+`Aspiring Full Stack Developer` • `Cloud Enthusiast` • `Backed by ChatGPT` 
 
 Hi there 👋 I'm Aravinthan, a curious coder who occasionally wins battles with semicolons and runtime errors. I’m passionate about building cloud-native apps, experimenting with UI/UX, and pretending to know what I’m doing.
 
