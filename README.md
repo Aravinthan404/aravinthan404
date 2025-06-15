@@ -24,9 +24,10 @@ In my spare time, I debug my soul, scroll through Dev memes, and build cool stuf
 ## 🚀 Latest Projects
 
 - 🎨 [Portfolio Website](https://arvfolio.framer.website/) – My online CV but prettier.
-- 🛰️ [Cloud App] will be deployed sooon! – It works on my cloud.
 - 🤖 [MARL-QMIX](https://github.com/Aravinthan404/marl-qmix) – Tackling Multi-Agent Reinforcement Learning scalability like a pro.
 - 📚 [Learning Path Recommendation](https://github.com/Aravinthan404/learning-path-recommendation) – Recommends what to study based on what you *don’t* know (yet).
+- 🛰️ [Cloud App] will be deployed sooon! – It works on my cloud.
+
 
 ---
 
